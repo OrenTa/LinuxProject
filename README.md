@@ -28,6 +28,7 @@ The server is deployed in Amazon with the following details:
 ## Third party sources I used
 - The Udacity Forum and Stackoverflow (while Googling it).
 - Used also turorials from DigitalOcean here https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+- Used some Ubuntu info from askubuntu.com
 - Used Google several times while searching for specific Ubuntu commands which I couldn't figure out (can't really remember all sources exactly ...)
 
 
